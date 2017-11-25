@@ -1,1 +1,2 @@
-Maven: src/assembly : Assembly descriptors
+Maven: src/assembly : Assembly descriptors for Maven
+
